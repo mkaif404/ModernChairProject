@@ -50,7 +50,7 @@ body {
   height: 40px;
   width: 40px;
   position: relative;
-  background-color: green;
+  /* background-color: green; */
   overflow: hidden;
   border: none;
   background-position: center;
